@@ -2,8 +2,8 @@
   "name": "Headphones",
   "id": "headphones",
   "description": {
-    "en": "Automatic music downloader for SABnzbd",
-    "fr": ""Automatic music downloader for SABnzbd"
+    "en": "SickBeard is a PVR for newsgroup users (with limited torrent support). It watches for new episodes of your favorite shows and when they are posted it downloads them, sorts and renames them...",
+    "fr": "SickBeard is a PVR for newsgroup users (with limited torrent support). It watches for new episodes of your favorite shows and when they are posted it downloads them, sorts and renames them..."
   },
   "developer": {
     "name": "Zabie",
