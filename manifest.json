@@ -2,8 +2,16 @@
   "name": "Headphones",
   "id": "headphones",
   "description": {
-    "en": "SickBeard is a PVR for newsgroup users (with limited torrent support). It watches for new episodes of your favorite shows and when they are posted it downloads them, sorts and renames them...",
-    "fr": "SickBeard is a PVR for newsgroup users (with limited torrent support). It watches for new episodes of your favorite shows and when they are posted it downloads them, sorts and renames them..."
+    "en": "Headphones is a tool that automates your music downloading. It's written in Python so it works on pretty much all systems, and it's easy to setup and configure. Downloading with NZBGet, SabNZBd and torrent is supported.
+
+You can import all your favorite artists from iTunes, and keep an eye out for any new albums they might be releasing.
+
+It can be configured to work with a few search providers, including NZBs.org and Newznab servers. Just enter your account details and you're ready to go.",
+    "fr": "Headphones is a tool that automates your music downloading. It's written in Python so it works on pretty much all systems, and it's easy to setup and configure. Downloading with NZBGet, SabNZBd and torrent is supported.
+
+You can import all your favorite artists from iTunes, and keep an eye out for any new albums they might be releasing.
+
+It can be configured to work with a few search providers, including NZBs.org and Newznab servers. Just enter your account details and you're ready to go."
   },
   "developer": {
     "name": "Zabie",

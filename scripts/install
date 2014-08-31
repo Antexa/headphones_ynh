@@ -45,6 +45,9 @@ if [[ $ip == "127.0.0.1" ]]; then
 	# Headphones Conf files
 	sed -i "s@PATHTOCHANGE@$path@g" ../conf/config.ini
 	sed -i "s@PORT@$port@g" ../conf/config.ini
+	# Log & Cache - Headphones
+	sed -i "s@INSTALL_DIR@$install_dir@g" ../conf/config.ini
+	sed -i "s@INSTALL_DIR@$install_dir@g" ../conf/config.ini
 	sudo cp ../conf/config.ini $install_dir/config.ini
 fi
 
