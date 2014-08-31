@@ -3,7 +3,7 @@
   "id": "headphones",
   "description": {
     "en": "Automatic music downloader for SABnzbd",
-	"fr": ""Automatic music downloader for SABnzbd"
+    "fr": ""Automatic music downloader for SABnzbd"
   },
   "developer": {
     "name": "Zabie",
