@@ -1,0 +1,56 @@
+{
+  "name": "Headphones",
+  "id": "headphones",
+  "description": {
+    "en": "Automatic music downloader for SABnzbd",
+  },
+  "developer": {
+    "name": "Zabie",
+    "email": " ",
+    "url": " "
+  },
+  "multi_instance": "false",
+  "arguments": {
+    "install": [
+      {
+        "name": "domain",
+        "ask": {
+          "en": "Choose a domain for headphones"
+        },
+        "example": "domain.org"
+      },
+      {
+        "name": "path",
+        "ask": {
+          "en": "Choose a path for headphones"
+        },
+        "example": "/headphones",
+        "default": "/headphones"
+      },
+      {
+        "name": "ip",
+        "ask": {
+          "en": "Choose host for app, if you keep default 127.0.0.1, app will be installed on Yunohost during the process"
+        },
+        "example": "192.168.X.X",
+        "default": "127.0.0.1"
+      },
+	  {
+        "name": "fork",
+        "ask": {
+          "en": "Enter the fork's git URL (Used only for localhost installation) :"
+        },
+        "example": "https://github.com/sarakha63/headphones",
+        "default": "https://github.com/rembo10/headphones"
+      },
+      {
+        "name": "port",
+        "ask": {
+          "en": "Choose the listening port of the app (not used if it's a local installation)"
+        },
+        "example": "8181",
+        "default": "8181"
+      }
+    ]
+  }
+}
